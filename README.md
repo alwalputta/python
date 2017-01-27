@@ -4,5 +4,4 @@ Hello once again
 final......
 final2......
 Changes in the bugfix branch
-Merge conflicts removed
-
+Making it ready for the rebase
